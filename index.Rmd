@@ -1,7 +1,7 @@
 ---
 title: "GF-0604 Procesamiento de datos geográficos<br>Laboratorio 02: R - Graficación básica"
-author: "Manuel Vargas"
-date: "2020-04-20"
+author: "Alexander Tencio"
+date: "2020-04-25"
 output:
   html_document:
     theme: readable    
